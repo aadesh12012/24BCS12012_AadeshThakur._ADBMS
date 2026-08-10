@@ -1,6 +1,5 @@
 --https://www.codechef.com/learn/course/sql-intermediate/SQ00BS08/problems/GSQ82?tab=statement
 
---Submission Link - https://www.codechef.com/viewsolution/1313607168
 
 /* Write a query to count the number of students across departments who has scored more than 80 marks.*/
 
